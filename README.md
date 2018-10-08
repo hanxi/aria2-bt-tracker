@@ -62,3 +62,7 @@ docker build -t aria2-bt-tracker .
 - ARIA2_URL for aria2 jsonrpc url
 - ARIA2_TOKEN for aria2 token
 - TRACKER_URL for tracker url, default is [trackers_best](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best.txt)
+
+## Who Use
+
+- [hanxi/media-server-docker-compose](https://github.com/hanxi/media-server-docker-compose)
