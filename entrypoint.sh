@@ -1,5 +1,5 @@
 #!/bin/sh
 
-# 启动 crontab
+# start crontab
 exec crond -l 2 -f "$@"
 
