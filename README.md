@@ -31,7 +31,7 @@ services:
     restart: always
   bt-tracker:
     container_name: bt-tracker
-    image: aria2-bt-tracker
+    image: hanxi/aria2-bt-tracker
     environment:
       - ARIA2_URL=http://aria2:6800/jsonrpc
       - ARIA2_TOKEN=HelloWorld
