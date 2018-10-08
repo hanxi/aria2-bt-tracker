@@ -1,0 +1,2 @@
+0 4 * * * sh /update-bt-tracker.sh
+# end line
