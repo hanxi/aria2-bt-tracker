@@ -45,6 +45,12 @@ services:
     restart: always
 ```
 
+### Start docker-compose
+
+```
+docker-compose up -d
+```
+
 ## Build own image
 
 ```
