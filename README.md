@@ -26,7 +26,7 @@ services:
       # - SSL=true
       - RPC_SECRET=HelloWorld
       - ARIA2_USER=admin
-      - ARIA2_PWD=12345606
+      - ARIA2_PWD=12345678
       - ENABLE_AUTH=true
     restart: always
   bt-tracker:
